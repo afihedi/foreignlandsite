@@ -101,23 +101,11 @@ a:hover{
     font-size: 30px;
     margin: 0;
     position: absolute;
-    top: 44%;
+    top: 50%;
     left: 50%;
     margin-right: -50%;
-    transform: translate(-50%, -44%);
+    transform: translate(-50%, -50%);
     text-align: center;
-}
-
-.col h6{
-    font-family: "Vivaldi Italic";
-    color: rgb(250, 201, 7);
-    font-size: 35px;
-    margin: 0;
-    position: absolute;
-    top: 60%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -60%)
 }
 
 .col form {
