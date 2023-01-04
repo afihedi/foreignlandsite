@@ -113,8 +113,8 @@ a:hover{
     color: rgb(250, 201, 7);
     font-size: 35px;
     margin: 0;
-    position: relative;
-    top: 52%;
+    position: absolute;
+    top: 60%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -52%)
